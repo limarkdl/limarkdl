@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🎓 I’m currently currently studying at &nbsp;&nbsp; [![UCLan](https://img.shields.io/badge/-UCLan%20Cyprus-be1622?style=for-the-badge&logoColor=white)](https://www.uclancyprus.ac.cy/)
+- 🎓 I’m currently studying at &nbsp;&nbsp; [![UCLan](https://img.shields.io/badge/-UCLan%20Cyprus-be1622?style=for-the-badge&logoColor=white)](https://www.uclancyprus.ac.cy/)
 - 🌱 I’m currently learning Software development technologies, especially Frontend. But at the same time, I am madly in love with trying new technologies, methodologies, libraries, programming languages, and I always try to have up-to-date knowledge about various areas of IT, so as not to be left behind.
 - 📫 How to reach me: ikostincyprus@gmail.com
 - ⚡ P.S: There are so few public repositories since the most of private repositories are nightmares from the beggining of my studying or are just experiments and I don't want to disgrace :)
