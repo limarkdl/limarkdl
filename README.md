@@ -6,9 +6,8 @@
 
 [@limarkdl-private](https://github.com/limarkdl-private) - My personal account where I use 3-rd party services (e.g Azure CI/CD pipeline), since they want access to my organization, but this does not suit me >:(
 
-## Programming Stack
 
-### Languages:
+## Languages:
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -17,7 +16,9 @@
 ![C Badge](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=fff&style=for-the-badge)
 [![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)](https://www.mathworks.com/products/matlab.html)
 
-### Minor libraries / Dev-Tools:
+
+
+#### Minor libraries / Dev-Tools:
 
 ![Vite Badge](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff&style=for-the-badge)
 ![Webpack Badge](https://img.shields.io/badge/Webpack-8DD6F9?logo=webpack&logoColor=000&style=for-the-badge)
@@ -31,6 +32,7 @@
 ![Axios Badge](https://img.shields.io/badge/Axios-5A29E4?logo=axios&logoColor=fff&style=for-the-badge)
 ![styled-components Badge](https://img.shields.io/badge/styled--components-DB7093?logo=styledcomponents&logoColor=fff&style=for-the-badge)
 ![Auth0 Badge](https://img.shields.io/badge/Auth0-EB5424?logo=auth0&logoColor=fff&style=for-the-badge)
+![Google Apps Script Badge](https://img.shields.io/badge/Google%20Apps%20Script-4285F4?logo=googleappsscript&logoColor=fff&style=for-the-badge)
 ![TailWind CSS](https://img.shields.io/badge/-TailWind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) 
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white) 
 ![ESLint Badge](https://img.shields.io/badge/ESLint-4B32C3?logo=eslint&logoColor=fff&style=for-the-badge)
@@ -39,7 +41,7 @@
 ![TensorFlow Badge](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=fff&style=for-the-badge)
 [![CatBoost](https://img.shields.io/badge/-CatBoost-ffcc00?style=for-the-badge&logo=catboost&logoColor=ffffff)](https://catboost.ai/)
 
-### Tools / Enviroments:
+## Tools / Enviroments:
 
 ![JetBrains](https://img.shields.io/badge/-JetBrains-000000?style=for-the-badge&logo=jetbrains&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/-Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
@@ -58,5 +60,5 @@
 ![NGINX Badge](https://img.shields.io/badge/NGINX-009639?logo=nginx&logoColor=fff&style=for-the-badge)
 
 
-### My exploring/debugging booster: 
+#### My exploring/debugging booster: 
 ![OpenAI Badge](https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=fff&style=for-the-badge)
