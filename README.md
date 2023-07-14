@@ -49,7 +49,7 @@
 ![Prettier Badge](https://img.shields.io/badge/Prettier-F7B93E?logo=prettier&logoColor=fff&style=for-the-badge)
 
 ![TensorFlow Badge](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=fff&style=for-the-badge)
-[![CatBoost](https://img.shields.io/badge/-CatBoost-ffcc00?style=for-the-badge&logo=catboost&logoColor=ffffff)](https://catboost.ai/)
+[![CatBoost](./catboost-custom-handmade-badge.svg)](https://catboost.ai/)
 </details>
 <details>
   <summary><h3 align="center">IDEs & Tools:</h3></summary>
@@ -75,9 +75,9 @@
 ![Code interpreter badge](./code-interpreter-custom-handmade-badge.svg)
 </details>
 <details>
-  <summary><h3 align="center">MY OTHER PROJECTS</h3></summary>
+  <summary><h3 align="center">My other projects:</h3></summary>
   <p>
-    <a href="https://github.com/limarkdl-private/uclan-merch-shop"><img src="https://img.shields.io/badge/-UCLan%20Merch%20Shop-be1622?style=for-the-badge&logoColor=white"></a>
+    <a href="https://github.com/limarkdl-private/uclan-merch-shop"><img src="https://img.shields.io/badge/->%20UCLan%20Merch%20Shop%20<-be1622?style=for-the-badge&logoColor=white"></a>
   </p>
 </details>
 
