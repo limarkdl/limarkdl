@@ -71,12 +71,13 @@
 ![GPT-4 badge](./gpt-4-custom-handmade-badge.svg)
 ![Code interpreter badge](./code-interpreter-custom-handmade-badge.svg)
 </details>
-<details>
-  <summary><h3 align="center">My other projects:</h3></summary>
+<h3>My current main projects:</h3>
   <p>
     <a href="https://github.com/limarkdl-private/uclan-merch-shop"><img src="https://img.shields.io/badge/->%20UCLan%20Merch%20Shop%20<-be1622?style=for-the-badge&logoColor=white"></a>
+    <a href="https://github.com/limarkdl/uclan-merch-api"><img src="https://img.shields.io/badge/->%20UCLan%20Merch%20Shop%20API%20<-974848?style=for-the-badge&logoColor=white"></a>
+    <a href="https://github.com/limarkdl/hover-racing-cpp"><img src="https://img.shields.io/badge/->%20Hover%20Racing%20Game%20<-00589d?style=for-the-badge&logoColor=white"></a>
   </p>
-</details>
+
 
 
   
