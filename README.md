@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋</h1>
+<h1>Hi there 👋</h1>
 
 <p>
   🎓 I’m currently studying at <i>UCLan Cyprus</i>. <br>
