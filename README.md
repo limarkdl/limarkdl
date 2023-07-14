@@ -50,7 +50,7 @@
 
 
 <details>
-  <summary>Tools & Enviroments:</summary>
+  <summary>IDEs & Enviroments & Tools:</summary>
   <br />
   
   ![JetBrains](https://img.shields.io/badge/-JetBrains-000000?style=for-the-badge&logo=jetbrains&logoColor=white)
