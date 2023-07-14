@@ -77,6 +77,13 @@
   </p>
 </details>
 
-<h3>My exploring/debugging booster - <img src="https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=fff&style=for-the-badge"></h3>
+
+<details><summary><h3>My exploring boosters:</h3></summary>
+  
+![OpenAI Badge](https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=fff&style=for-the-badge)
+![Code interpreter badge](./code-interpreter-custom-handmade-badge.svg)
+![GPT-4 badge](./gpt-4-custom-handmade-badge.svg)
+
+</details>
 
   
