@@ -18,8 +18,10 @@
 
 
 
-#### Libraries / Dev-Tools:
-
+<details>
+  <summary>Libraries / Dev-Tools:</summary>
+  <br />
+ 
 ![Node.js Badge](https://img.shields.io/badge/Node.js-393?logo=nodedotjs&logoColor=fff&style=for-the-badge)
 ![Vite Badge](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff&style=for-the-badge)
 ![Webpack Badge](https://img.shields.io/badge/Webpack-8DD6F9?logo=webpack&logoColor=000&style=for-the-badge)
@@ -28,6 +30,8 @@
 ![Babel Badge](https://img.shields.io/badge/Babel-F9DC3E?logo=babel&logoColor=000&style=for-the-badge)
 ![StoryBook](https://img.shields.io/badge/-StoryBook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)
 ![JEST](https://img.shields.io/badge/-JEST-C21325?style=for-the-badge&logo=jest&logoColor=white)
+[![React Testing Library](https://img.shields.io/badge/-React%20Testing%20Library-696969?style=for-the-badge&logoColor=white)](https://testing-library.com/docs/react-testing-library/intro/)
+[![LOKI](https://img.shields.io/badge/-LOKI-ffffff?style=for-the-badge&logoColor=white)](https://loki.js.org/)
 ![i18next Badge](https://img.shields.io/badge/i18next-26A69A?logo=i18next&logoColor=fff&style=for-the-badge)
 ![React Router Badge](https://img.shields.io/badge/React%20Router-CA4245?logo=reactrouter&logoColor=fff&style=for-the-badge)
 ![Axios Badge](https://img.shields.io/badge/Axios-5A29E4?logo=axios&logoColor=fff&style=for-the-badge)
@@ -41,10 +45,15 @@
 
 ![TensorFlow Badge](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=fff&style=for-the-badge)
 [![CatBoost](https://img.shields.io/badge/-CatBoost-ffcc00?style=for-the-badge&logo=catboost&logoColor=ffffff)](https://catboost.ai/)
+</details>
 
-## Tools / Enviroments:
 
-![JetBrains](https://img.shields.io/badge/-JetBrains-000000?style=for-the-badge&logo=jetbrains&logoColor=white)
+
+<details>
+  <summary>Tools / Enviroments:</summary>
+  <br />
+  
+  ![JetBrains](https://img.shields.io/badge/-JetBrains-000000?style=for-the-badge&logo=jetbrains&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/-Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Google Collab](https://img.shields.io/badge/-Google_Collab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white)
@@ -56,9 +65,11 @@
 ![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=for-the-badge)
 ![GitHub Actions Badge](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=fff&style=for-the-badge)
 ![GitHub Pages Badge](https://img.shields.io/badge/GitHub%20Pages-222?logo=githubpages&logoColor=fff&style=for-the-badge)
+![Vercel Badge](https://img.shields.io/badge/Vercel-000?logo=vercel&logoColor=fff&style=for-the-badge)
 ![XAMPP Badge](https://img.shields.io/badge/XAMPP-FB7A24?logo=xampp&logoColor=fff&style=for-the-badge)
 ![Apache Badge](https://img.shields.io/badge/Apache-D22128?logo=apache&logoColor=fff&style=for-the-badge)
 ![NGINX Badge](https://img.shields.io/badge/NGINX-009639?logo=nginx&logoColor=fff&style=for-the-badge)
+</details>
 
 
 #### My exploring/debugging booster: 
