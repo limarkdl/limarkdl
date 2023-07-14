@@ -1,14 +1,14 @@
 <h1 align="center">Hi there 👋</h1>
 
 <p>
-  🎓 I’m currently studying at &nbsp;&nbsp; <a href="https://www.uclancyprus.ac.cy/"><img src="https://img.shields.io/badge/-UCLan%20Cyprus-be1622?style=for-the-badge&logoColor=white"></a><br>
-  🌱 I’m currently learning Software development technologies, especially Frontend.<br>
-  📫 How to reach me: ikostincyprus@gmail.com / ikostin@uclan.ac.uk<br>
-  ⚡ P.S: There are so few public repositories since the most of private repositories are nightmares from the beggining of my studying or are just experiments and I don't want to disgrace :)
+  🎓 I’m currently studying at <i>UCLan Cyprus</i>. <br>
+  🌱 I’m currently learning Software development technologies, especially Frontend. <br>
+  👀 There are so few public repositories since the majority of private repositories are nightmares from the beginning of my studies or are just experiments, and I don't want to disgrace :)
 </p>
 
 <p align="center">
   <a href="https://github.com/limarkdl-private"><img src="https://img.shields.io/badge/-@limarkdl--private-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+ <a href="mailto:ikostincyprus@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> <a href="mailto:ikostin@uclan.ac.uk"><img src="https://img.shields.io/badge/Outlook-0078D4?logo=microsoftoutlook&logoColor=fff&style=for-the-badge"></a>
 </p>
 
 ---
@@ -47,7 +47,6 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white) 
 ![ESLint Badge](https://img.shields.io/badge/ESLint-4B32C3?logo=eslint&logoColor=fff&style=for-the-badge)
 ![Prettier Badge](https://img.shields.io/badge/Prettier-F7B93E?logo=prettier&logoColor=fff&style=for-the-badge)
-
 ![TensorFlow Badge](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=fff&style=for-the-badge)
 [![CatBoost](./catboost-custom-handmade-badge.svg)](https://catboost.ai/)
 </details>
@@ -69,8 +68,6 @@
 ![XAMPP Badge](https://img.shields.io/badge/XAMPP-FB7A24?logo=xampp&logoColor=fff&style=for-the-badge)
 ![Apache Badge](https://img.shields.io/badge/Apache-D22128?logo=apache&logoColor=fff&style=for-the-badge)
 ![NGINX Badge](https://img.shields.io/badge/NGINX-009639?logo=nginx&logoColor=fff&style=for-the-badge)
-
-
 ![GPT-4 badge](./gpt-4-custom-handmade-badge.svg)
 ![Code interpreter badge](./code-interpreter-custom-handmade-badge.svg)
 </details>
