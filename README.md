@@ -69,6 +69,10 @@
 ![XAMPP Badge](https://img.shields.io/badge/XAMPP-FB7A24?logo=xampp&logoColor=fff&style=for-the-badge)
 ![Apache Badge](https://img.shields.io/badge/Apache-D22128?logo=apache&logoColor=fff&style=for-the-badge)
 ![NGINX Badge](https://img.shields.io/badge/NGINX-009639?logo=nginx&logoColor=fff&style=for-the-badge)
+
+
+![GPT-4 badge](./gpt-4-custom-handmade-badge.svg)
+![Code interpreter badge](./code-interpreter-custom-handmade-badge.svg)
 </details>
 <details>
   <summary><h3 align="center">MY OTHER PROJECTS</h3></summary>
@@ -77,13 +81,5 @@
   </p>
 </details>
 
-
-<details><summary><h3>My exploring boosters:</h3></summary>
-  
-![OpenAI Badge](https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=fff&style=for-the-badge)
-![Code interpreter badge](./code-interpreter-custom-handmade-badge.svg)
-![GPT-4 badge](./gpt-4-custom-handmade-badge.svg)
-
-</details>
 
   
