@@ -73,3 +73,6 @@
 
 #### My exploring/debugging booster: 
 ![OpenAI Badge](https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=fff&style=for-the-badge)
+
+## MY OTHER PROJECTS 
+[![UCLAN MERCH SHOP](https://img.shields.io/badge/-UCLan%20Merch%20Shop-be1622?style=for-the-badge&logoColor=white)](https://github.com/limarkdl-private/uclan-merch-shop) [@limarkdl-private/uclan-merch-shop](https://github.com/limarkdl-private/uclan-merch-shop)
