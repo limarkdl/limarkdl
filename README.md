@@ -19,7 +19,7 @@
 
 
 <details>
-  <summary>Libraries / Dev-Tools:</summary>
+  <summary>Libraries & Dev-Tools:</summary>
   <br />
  
 ![Node.js Badge](https://img.shields.io/badge/Node.js-393?logo=nodedotjs&logoColor=fff&style=for-the-badge)
@@ -50,7 +50,7 @@
 
 
 <details>
-  <summary>Tools / Enviroments:</summary>
+  <summary>Tools & Enviroments:</summary>
   <br />
   
   ![JetBrains](https://img.shields.io/badge/-JetBrains-000000?style=for-the-badge&logo=jetbrains&logoColor=white)
