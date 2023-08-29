@@ -1,9 +1,6 @@
 <h1>Hi there 👋</h1>
 
-<p>
-  🎓 I’m currently studying at <i>UCLan Cyprus</i>. <br>
-  🌱 I’m currently learning Software development technologies, especially Frontend. <br>
-  👀 There are so few public repositories since the majority of private repositories are nightmares from the beginning of my studies or are just experiments, and I don't want to disgrace :)
+<p>I'm studying at UCLan Cyprus, where I'm diving into the exciting world of software development, with a special focus on frontend technologies. It's been quite a journey so far! I have a bunch of repositories, but unfortunately, only a few of them are public and suitable to show off my work. You see, most of my private repositories are either leftovers from my early days of studying or just experimental projects. I'm a bit hesitant to share them because, well, they might be a little embarrassing.
 </p>
 
 <p align="center">
