@@ -16,6 +16,7 @@
   <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
   <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=for-the-badge">
   <a href="https://www.mathworks.com/products/matlab.html"><img src="https://img.shields.io/badge/-MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white"></a>
 </p>
@@ -42,6 +43,7 @@
 ![Prettier Badge](https://img.shields.io/badge/Prettier-F7B93E?logo=prettier&logoColor=fff&style=for-the-badge)
 ![TensorFlow Badge](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=fff&style=for-the-badge)
 [![CatBoost](./catboost-custom-handmade-badge.svg)](https://catboost.ai/)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 </details>
 <details>
   <summary><h3 align="center">IDEs & Tools:</h3></summary>
@@ -59,13 +61,6 @@
 ![GPT-4 badge](./gpt-4-custom-handmade-badge.svg)
 ![Code interpreter badge](./code-interpreter-custom-handmade-badge.svg)
 </details>
-<h3>My current main projects:</h3>
-  <p>
-    <a href="https://github.com/limarkdl-private/uclan-merch-shop"><img src="https://img.shields.io/badge/->%20UCLan%20Merch%20Shop%20<-be1622?style=for-the-badge&logoColor=white"></a>
-    <a href="https://github.com/limarkdl/uclan-merch-shop-api"><img src="https://img.shields.io/badge/->%20UCLan%20Merch%20Shop%20API%20<-974848?style=for-the-badge&logoColor=white"></a>
-    <a href="https://github.com/limarkdl/treasure-hunt-game"><img src="https://img.shields.io/badge/->%20Treasure%20Hunt%20Game%20<-f9ed69?style=for-the-badge&logoColor=white"></a>
-  </p>
-
 
 
   
