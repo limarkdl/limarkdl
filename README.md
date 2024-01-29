@@ -21,8 +21,7 @@
   <a href="https://www.mathworks.com/products/matlab.html"><img src="https://img.shields.io/badge/-MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white"></a>
 </p>
 
-<details>
-  <summary><h3 align="center">Libraries & Dev-Tools:</h3></summary>
+<h3 align="center">Libraries & Dev-Tools:</h3>
      
 ![Node.js Badge](https://img.shields.io/badge/Node.js-393?logo=nodedotjs&logoColor=fff&style=for-the-badge)
 ![Vite Badge](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff&style=for-the-badge)
@@ -44,9 +43,8 @@
 ![TensorFlow Badge](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=fff&style=for-the-badge)
 [![CatBoost](./catboost-custom-handmade-badge.svg)](https://catboost.ai/)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-</details>
-<details>
-  <summary><h3 align="center">IDEs & Tools:</h3></summary>
+
+<h3 align="center">IDEs & Tools:</h3>
     
    ![JetBrains](https://img.shields.io/badge/-JetBrains-000000?style=for-the-badge&logo=jetbrains&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/-Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
@@ -60,7 +58,7 @@
 ![NGINX Badge](https://img.shields.io/badge/NGINX-009639?logo=nginx&logoColor=fff&style=for-the-badge)
 ![GPT-4 badge](./gpt-4-custom-handmade-badge.svg)
 ![Code interpreter badge](./code-interpreter-custom-handmade-badge.svg)
-</details>
+
 
 
   
