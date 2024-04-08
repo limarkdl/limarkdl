@@ -45,15 +45,18 @@
 </div>
 
 
-<h3 align="center">IDEs & Tools:</h3>
-    
-   ![JetBrains](https://img.shields.io/badge/-JetBrains-000000?style=flat&logo=jetbrains&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/-Visual_Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white)
-![Google Collab](https://img.shields.io/badge/-Google_Collab-F9AB00?style=flat&logo=google-colab&logoColor=white)
-![Jupyter Badge](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=fff&style=flat)
-![Microsoft Azure Badge](https://img.shields.io/badge/Microsoft%20Azure-0078D4?logo=microsoftazure&logoColor=fff&style=flat)
-![Azure Pipelines Badge](https://img.shields.io/badge/Azure%20Pipelines-2560E0?logo=azurepipelines&logoColor=fff&style=flat)
-![GitHub Actions Badge](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=fff&style=flat)
-![Vercel Badge](https://img.shields.io/badge/Vercel-000?logo=vercel&logoColor=fff&style=flat)
-![Apache Badge](https://img.shields.io/badge/Apache-D22128?logo=apache&logoColor=fff&style=flat)
-![NGINX Badge](https://img.shields.io/badge/NGINX-009639?logo=nginx&logoColor=fff&style=flat)
+<h3 align="center">System & IDEs & Tools:</h3>
+
+<div>
+    <img alt='Fedora' src='https://img.shields.io/badge/Fedora-100000?style=flat&logo=fedora&logoColor=FFFFFF&labelColor=1d63ed&color=1d63ed'/>
+    <img alt='JetBrains' src='https://img.shields.io/badge/-JetBrains-000000?style=flat&logo=jetbrains&logoColor=white'/>
+    <img alt='Visual Studio' src='https://img.shields.io/badge/-Visual_Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white'/>
+    <img alt='Google Collab' src='https://img.shields.io/badge/-Google_Collab-F9AB00?style=flat&logo=google-colab&logoColor=white'/>
+    <img alt='Jupyter' src='https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=fff&style=flat'/>
+    <img alt='Microsoft Azure' src='https://img.shields.io/badge/Microsoft%20Azure-0078D4?logo=microsoftazure&logoColor=fff&style=flat'/>
+    <img alt='Azure Pipelines' src='https://img.shields.io/badge/Azure%20Pipelines-2560E0?logo=azurepipelines&logoColor=fff&style=flat'/>
+    <img alt='GitHub Actions' src='https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=fff&style=flat'/>
+    <img alt='Vercel' src='https://img.shields.io/badge/Vercel-000?logo=vercel&logoColor=fff&style=flat'/>
+    <img alt='Apache' src='https://img.shields.io/badge/Apache-D22128?logo=apache&logoColor=fff&style=flat'/>
+    <img alt='NGINX' src='https://img.shields.io/badge/NGINX-009639?logo=nginx&logoColor=fff&style=flat'/>
+</div>
