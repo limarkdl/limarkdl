@@ -1,7 +1,7 @@
 
 <p align="center">
   <a href="https://github.com/limarkdl-private"><img src="https://img.shields.io/badge/-@limarkdl--private-181717?style=flat&logo=github&logoColor=white"></a>
- <a href="mailto:ikostincyprus@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"></a> <a href="mailto:ikostin@uclan.ac.uk"><img src="https://img.shields.io/badge/Outlook-0078D4?logo=microsoftoutlook&logoColor=fff&style=flat"></a>
+ <a href="mailto:limarkdl@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"></a> <a href="mailto:ikostin_wrk@outlook.com"><img src="https://img.shields.io/badge/Outlook-0078D4?logo=microsoftoutlook&logoColor=fff&style=flat"></a>
 </p>
 
 ---
