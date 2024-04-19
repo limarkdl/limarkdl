@@ -11,8 +11,8 @@
 <p align="center">
   <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white">
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white">
   <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white">
+  <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white">
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=flat">
   <a href="https://www.mathworks.com/products/matlab.html"><img src="https://img.shields.io/badge/-MATLAB-0076A8?style=flat&logo=mathworks&logoColor=white"></a>
 </p>
