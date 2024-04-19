@@ -22,16 +22,18 @@
 <div>
   
 <img alt='docker' src='https://img.shields.io/badge/Docker-100000??style=flat&logo=docker&logoColor=FFFFFF&labelColor=1d63ed&color=1d63ed'/> 
-<img alt='Node.js' src='https://img.shields.io/badge/Node.js-393?logo=nodedotjs&logoColor=fff&style=flat'/>  
+<img alt='Node.js' src='https://img.shields.io/badge/NodeJS-393?logo=nodedotjs&logoColor=fff&style=flat'/>  
+<img alt='Next.js' src='https://img.shields.io/badge/NextJS-000000?style=flat&logo=next.js'/> 
 <img alt='Webpack' src='https://img.shields.io/badge/Webpack-8DD6F9?logo=webpack&logoColor=000&style=flat'/>  
 <img alt='Vite' src='https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff&style=flat'/>  
 <img alt='React' src='https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white'/>   
-<img alt='Redux' src='https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=white'/>   
+<img alt='Redux' src='https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=white'/>
 <img alt='Babel' src='https://img.shields.io/badge/Babel-F9DC3E?logo=babel&logoColor=000&style=flat'/>  
 <img alt='StoryBook' src='https://img.shields.io/badge/-StoryBook-FF4785?style=flat&logo=storybook&logoColor=white'/>  
 <img alt='JEST' src='https://img.shields.io/badge/-JEST-C21325?style=flat&logo=jest&logoColor=white'/>  
 <img alt='i18next' src='https://img.shields.io/badge/i18next-26A69A?logo=i18next&logoColor=fff&style=flat'/>  
-<img alt='Axios' src='https://img.shields.io/badge/Axios-5A29E4?logo=axios&logoColor=fff&style=flat'/>  
+<img alt='Axios' src='https://img.shields.io/badge/Axios-5A29E4?logo=axios&logoColor=fff&style=flat'/>
+<img alt='Express' src='https://img.shields.io/badge/ExpressJS-100000?style=flat&logo=Express&logoColor=white&labelColor=3F3F3F&color=3F3F3F'/>
 <img alt='styled-components' src='https://img.shields.io/badge/styled--components-DB7093?logo=styledcomponents&logoColor=fff&style=flat'/>  
 <img alt='Auth0' src='https://img.shields.io/badge/Auth0-EB5424?logo=auth0&logoColor=fff&style=flat'/>  
 <img alt='Google Apps Script' src='https://img.shields.io/badge/Google%20Apps%20Script-4285F4?logo=googleappsscript&logoColor=fff&style=flat'/>  
