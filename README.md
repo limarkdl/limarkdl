@@ -62,3 +62,10 @@
     <img alt='Apache' src='https://img.shields.io/badge/Apache-D22128?logo=apache&logoColor=fff&style=flat'/>
     <img alt='NGINX' src='https://img.shields.io/badge/NGINX-009639?logo=nginx&logoColor=fff&style=flat'/>
 </div>
+
+<h3 align="center">Pet-Projects:</h3>
+
+[![Frame 13](https://github.com/limarkdl/limarkdl/assets/116545670/7b879a6e-f57c-4b1a-bd81-ca1ee88c6389)](https://github.com/limarkdl/next-gym-fullstack)
+[![Group 36(1)](https://github.com/limarkdl/limarkdl/assets/116545670/c89df925-f85d-4f7c-99cd-421e1def5c3e)](https://github.com/limarkdl/tmdb-flutter-movie-app)
+
+
