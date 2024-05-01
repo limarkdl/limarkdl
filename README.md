@@ -1,11 +1,18 @@
 
 <p align="center">
  <a href="https://www.linkedin.com/in/ivan-kostin-limarkdl/">
-          <img src="https://github.com/limarkdl/limarkdl/assets/116545670/1d646655-44e1-42a8-be34-9fe9804f9270" alt="Next Gym Fullstack">
+          <img src="https://github.com/limarkdl/limarkdl/assets/116545670/215ea2ef-f55a-4173-bc98-15a02a6a5dde" alt="Next Gym Fullstack">
         </a>
 </p>
 
+
+
 ---
+Hello 🤝. This is my GitHub where I keep my projects and sometimes sweep and clean. All the projects that you see were made by me personally from scratch and with great love and awe. No templates, no ready-made design layouts, no copy-paste or dictated code. All is mine. Enjoy.
+
+---
+
+
 ### Languages
 
 - **TypeScript**, **Python**, **Dart**, **PHP**, **C++**
