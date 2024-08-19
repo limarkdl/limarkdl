@@ -1,11 +1,10 @@
 
 <p align="center">
  <a href="https://www.linkedin.com/in/ivan-kostin-limarkdl/">
-          <img src="https://github.com/limarkdl/limarkdl/assets/116545670/7ab937b1-3b0f-4e87-9ee1-1b71f82946ed"       alt="LinkedIn Custome Widget"
+          <img src="https://github.com/user-attachments/assets/57294c6e-c4cd-41f5-9a62-7ad739d21771"       alt="LinkedIn Custome Widget"
            >
         </a>
 </p>
-
 
 
 ---
