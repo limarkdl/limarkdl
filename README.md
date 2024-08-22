@@ -15,7 +15,7 @@ Hi! Here I keep my projects and sometimes sweep and clean. All the projects that
 
 ### Languages
 
-![Languages](https://github.com/user-attachments/assets/3ced2e65-b0b7-48d1-a61d-ee0f12fea8c2)
+![languages](https://github.com/user-attachments/assets/94dd220b-6459-401e-a874-8338a8a7c4b8)
 
 
 ---
