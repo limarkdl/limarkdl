@@ -29,9 +29,8 @@ Hi! Here I keep my projects and sometimes sweep and clean. All the projects that
 
 <h3 align="center">Pet-Projects:</h3>
 
-
-[![NEXT GYM FULLSTACK](https://github.com/limarkdl/limarkdl/assets/116545670/657f730a-44e7-4d5c-ad61-ef6d732a9187)](https://github.com/limarkdl/next-gym-fullstack)
-[![TMBD FLUTTER MOVIE APP](https://github.com/limarkdl/limarkdl/assets/116545670/f626def7-6049-4755-9b83-269d0b4de513)](https://github.com/limarkdl/tmdb-flutter-movie-app)
+[![NEXT GYM FULLSTACK](https://github.com/user-attachments/assets/c581c62a-37a7-4ac5-81b5-a0a16f4637ae)](https://github.com/limarkdl/next-gym-fullstack)
+[![TMBD FLUTTER MOVIE APP](https://github.com/user-attachments/assets/9bc20f57-00f0-4652-b10c-764f9b9a7229)](https://github.com/limarkdl/tmdb-flutter-movie-app)
 
 
 
