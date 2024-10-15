@@ -22,7 +22,7 @@ Hi! Here I keep my projects and sometimes sweep and clean. All the projects that
 ---
 <h3 align="center">Diploma project:</h3>
 
-[![SHRIMTWIN](https://github.com/user-attachments/assets/b86082cb-1d31-469a-bd6f-5f9e15e920fe)](https://github.com/limarkdl/shrim-twin)
+[![SHRIMTWIN](https://github.com/user-attachments/assets/5637f68e-52df-48fb-a555-899c35272391)](https://github.com/limarkdl/shrim-twin)
 
 
 ---
