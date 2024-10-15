@@ -1,10 +1,11 @@
 
 <p align="center">
  <a href="https://www.linkedin.com/in/ivan-kostin-limarkdl/">
-          <img src="https://github.com/user-attachments/assets/57294c6e-c4cd-41f5-9a62-7ad739d21771"       alt="LinkedIn Custome Widget"
+          <img src="https://github.com/user-attachments/assets/58f2b8bc-c5b9-4008-b9f2-859f7f21e8fb"       alt="LinkedIn Custome Widget"
            >
         </a>
 </p>
+
 
 
 ---
@@ -19,11 +20,9 @@ Hi! Here I keep my projects and sometimes sweep and clean. All the projects that
 
 
 ---
+<h3 align="center">Diploma project:</h3>
 
-### Libs / Tools / Frameworks / Technologies
-
-
-![Frameworks-libraries-tools](https://github.com/user-attachments/assets/fea43025-aa58-4d4c-b815-3f742057d0d7)
+[![SHRIMTWIN](https://github.com/user-attachments/assets/b86082cb-1d31-469a-bd6f-5f9e15e920fe)](https://github.com/limarkdl/shrim-twin)
 
 
 ---
