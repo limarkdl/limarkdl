@@ -1,14 +1,3 @@
-
-<p align="center">
- <a href="https://www.linkedin.com/in/ivan-kostin-limarkdl/">
-          <img src="https://github.com/user-attachments/assets/58f2b8bc-c5b9-4008-b9f2-859f7f21e8fb"       alt="LinkedIn Custome Widget"
-           >
-        </a>
-</p>
-
-
-
----
 Hi! Here I keep my projects and sometimes sweep and clean. All the projects that you see were made by me personally from scratch and with great love and awe. No templates, no ready-made design layouts, no copy-paste or dictated code. All is mine. Enjoy.
 
 ---
