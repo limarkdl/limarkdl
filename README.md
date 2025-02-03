@@ -1,4 +1,4 @@
-Hi! Here I keep my projects and sometimes sweep and clean. All the projects that you see were made by me personally from scratch and with great love and awe. No templates, no ready-made design layouts, no copy-paste or dictated code. All is mine. Enjoy.
+Hi! Here I keep my projects and sometimes sweep and clean. All the projects that you see were made by me personally from scratch and with great love and awe. 
 
 ---
 
